@@ -1,0 +1,34 @@
+body {
+    margin: 20px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    width: 600px;
+    margin: 0 auto;
+    border-bottom: 10px solid lightskyblue;
+    background-color: hsl(349, 49%, 89%);
+}
+.card-img {
+    width: 200px;
+    border-radius: 15%;
+    
+}
+
+
+.card-content {
+    margin: 0 auto;
+}
+
+article {
+    text-align: center;
+    font-size: 25px;
+}
+
+h3{
+    font-size: 40px;
+    font-family: monospace;
+    color: palevioletred;
+}
